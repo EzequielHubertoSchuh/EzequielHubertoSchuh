@@ -39,7 +39,7 @@ Contact-me on:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ezequielschuh-765212128"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/ezequielschuh"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://instagram.com/ezequielschuh"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://api.whatsapp.com/send?phone=+46999258894"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
   <a href="https://t.me/ezequielschuh"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px" alt="Telegram"></a> &nbsp; &nbsp;
