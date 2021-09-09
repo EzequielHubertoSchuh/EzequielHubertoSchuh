@@ -6,6 +6,6 @@
 
 
 
-![Ezequiel H. Schuh github stats](https://github-readme-stats.vercel.app/api?username=tuliofaria&show_icons=true&theme=radical)
+![Ezequiel H. Schuh github stats](https://github-readme-stats.vercel.app/api?username=EzequielHubertoSchuh&show_icons=true&theme=radical)
 
 
