@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 
+- 👋 Olá, eu sou @ezequielschuh (Ezequiel Huberto Schuh)
 - 🔭 Sou Técnico em Informática no Colégio Nossa Senhora da Glória;
-- 🌱 Estudando Microsserviços, Spring Boot e Kubernetes.
+- 👀 e estou interessado em desenvolvimento Java
+- 🌱 atualmente, estou estudando Microsserviços,spring boot, git, docker e kubernetes.
+- 📫 você pode me encontrar em ezequiel_utf@yahoo.com.br :)
 
 
 Contact-me on:
