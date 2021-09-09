@@ -5,3 +5,7 @@
 - 🌱 Estudando Microsserviços, Spring Boot e Kubernetes.
 
 
+
+![Ezequiel H. Schuh github stats](https://github-readme-stats.vercel.app/api?username=tuliofaria&show_icons=true&theme=radical)
+
+
