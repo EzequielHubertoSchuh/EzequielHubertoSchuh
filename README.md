@@ -8,8 +8,8 @@
 - 📫 você pode me encontrar em ezequiel_utf@yahoo.com.br :)
 
 
-Contact-me on:
-[LinkedIn](https://linkedin.com/in/ezequiel-huberto-schuh-765212128)
+<!-- Contact-me on: -->
+<!-- [LinkedIn](https://linkedin.com/in/ezequiel-huberto-schuh-765212128) -->
 
 
 <!--  ![Ezequiel H. Schuh github stats](https://github-readme-stats.vercel.app/api?username=EzequielHubertoSchuh&show_icons=true&theme=radical) -->
