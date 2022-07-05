@@ -2,8 +2,8 @@
 
 
 - 👋 Olá, eu sou @ezequielschuh (Ezequiel Huberto Schuh)
-- 🔭 Sou Desenvolvedor Java na IDS Desenvolvimento de Software e Assessoria
-- 👀 e estou interessado em desenvolvimento Java
+- 🔭 Sou Desenvolvedor Java | Spring Boot | Angular
+- 👀 e estou interessado em desenvolvimento Java 
 - 🌱 atualmente, estou estudando Microsserviços, spring boot, git, docker e kubernetes
 - 📫 você pode me encontrar em ezequiel_utf@yahoo.com.br :)
 
